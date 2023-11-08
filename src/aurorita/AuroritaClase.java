@@ -70,6 +70,7 @@ public class AuroritaClase {
             }
         }
         aurora.getTeachersLowScore();
+        System.out.println("hola");
         
     }
     
